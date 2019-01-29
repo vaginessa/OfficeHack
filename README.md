@@ -2,6 +2,9 @@
 OfficeHack roba todo lo que es documento de office y las copia a una USB cuando la victima lo ejecute la aplicaciÃ³n.
 
 - MAS INFORMACIÃ“N 
+
+![](https://raw.githubusercontent.com/Pericena/OfficeHack/master/imagenes/Screenshot_15.png)
+
 https://lpericena.blogspot.com/2017/12/officehack.html
 
 ## Comenzando
