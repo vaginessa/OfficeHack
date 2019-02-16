@@ -1,114 +1,75 @@
 # OfficeHack
-OfficeHack roba todo lo que es documento de office y las copia a una USB cuando la victima lo ejecute la aplicación.
+OfficeHack steals everything that is an office document and copies it to a USB when the victim runs the application.
 
-- MAS INFORMACIÓN 
+- MORE INFORMATION
 
-![](https://raw.githubusercontent.com/Pericena/OfficeHack/master/imagenes/Screenshot_15.png)
+! [] (https://raw.githubusercontent.com/Pericena/OfficeHack/master/imagenes/Screenshot_15.png)
 
 - https://lpericena.blogspot.com/2017/12/officehack.html
 
-## Comenzando
+## Starting
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu mÃ¡quina local para propÃ³sitos de desarrollo y pruebas._
+_These instructions will allow you to obtain a copy of the project in operation on your local machine for development and testing purposes.
 https://github.com/Pericena/OfficeHack.git
-Mira **Deployment** para conocer como desplegar el proyecto.
+See ** Deployment ** to learn how to deploy the project.
 
 
-### Pre-requisitos
+### Pre requirements
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+What things do you need to install the software and how to install them?
 
-```
+`` `
  - windows 7/10
- - USB 
-```
- - Descargar https://github.com/Pericena/OfficeHack/tree/master/Descargar 
-### Instalación
+ - USB
+`` `
+ - Download https://github.com/Pericena/OfficeHack/tree/master/Download
+### Installation
 
-```
-Ejecutar el programa OfficeHack.exe existe varias versiones para windows 7/10
-```
-_Y repite_
-```
-hasta finalizar
-```
+`` `
+Running the OfficeHack.exe program exists several versions for windows 7/10
+`` `
+_ And repeat_
+`` `
+until final
+`` `
 
-## Ejecutando las pruebas 
-visita la pagina web para que puedas ver el proceso de la instalaciÃ³n y el uso
+## Running the tests
+Visit the website so you can see the process of installation and use
 https://lpericena.blogspot.com/2017/12/officehack.html
 
 
 ## Deployment
 - LICENSE
-- Permisos
-* Uso comercial
-* DistribuciÃ³n
-* ModificaciÃ³n
-* Uso de patentes
-* Uso privado
-- Condiciones	Limitaciones
-*  Revelar la fuente
-*  Aviso de licencia y copyright
-*  Misma licencia
-*  Cambios de estado
-*  Responsabilidad
-*  GarantÃ­a
+- Permissions
+* Commercial use
+* Distribution
+* Modification
+* Use of patents
+* Private use
+- Conditions Limitations
+* Reveal the source
+* License and copyright notice
+* Same license
+*  State changes
+* Responsibility
+* Guarantee
 
-## Construido con 💻* [Notepad++](https://notepad-plus-plus.org/download/) - Editor de texto (IDE)
+## Built with 💻 * [Notepad ++] (https://notepad-plus-plus.org/download/) - Text Editor (IDE)
 
-## Contribuyendo 🚀
-Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena/OfficeHack) para detalles de nuestro cÃ³digo de conducta, y el proceso para enviarnos pull requests.
+## Contributing 🚀
+Please read the [CONTRIBUTING.md] (https://github.com/Pericena/OfficeHack) for details of our code of conduct, and the process to send us pull requests.
 
 ## Versionado
 
-Usamos [version](https://github.com/Pericena/OfficeHack/blob/master/version.txt) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/Pericena/OfficeHack/tags).
-## Autores 👦
+We use [version] (https://github.com/Pericena/OfficeHack/blob/master/version.txt) for versioning. For all available versions, look at the [tags in this repository] (https://github.com/Pericena/OfficeHack/tags).
+## Authors 👦
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+_Menciona to all those who helped to lift the project since its inception_
 
-* **LuishiÃ±o Pericena Choque ** - *Desarrollo del software* - [Pericena](https://github.com/Pericena)
+* ** LuishiÃ ± o Pericena Choque ** - * Software development * - [Pericena] (https://github.com/Pericena)
 
-TambiÃ©n puedes mirar la lista de todos los [contribuyentes](https://github.com/Pericena/OfficeHack/contributors) quÃ­enes han participado en este proyecto. 
+You can also look at the list of all [contributors] (https://github.com/Pericena/OfficeHack/contributors) who have participated in this project.
 
-## Licencia
+## License
 
-Este proyecto estÃ¡ bajo la Licencia (Licencia pÃºblica general de GNU) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 
-
-* Bueno espero que le sea de utilidad cualquier consulta pueden dirigirse a mis redes sociales ðŸ“¢
-* Sigueme en las redes Sociales:
-- 🌎Blogger          https://lpericena.blogspot.com/
-- 💡 Github            https://github.com/Pericena
-- 🎬 youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
-- 📸 pinterest        https://es.pinterest.com/lushiopericena/
-- 🐤 twitter             https://twitter.com/LPericena
-- 👦 linkedin         https://www.linkedin.com/in/lpericena/
-- 👍 facebook       https://www.facebook.com/profile.php?id=100009309755063
-- 👍 pagina facebook  https://www.facebook.com/lpericena
-- 🎮 sitio web        https://pericena.wordpress.com/
-- vimeo         https://vimeo.com/lpericena
-- 📷 instagram      https://www.instagram.com/lpericena/
-- 🎁 remote      https://remote.com/luishinopericena-choque
-- ⚛ google+   https://plus.google.com/u/0/114054031405340478901
-- 🚀 kiwi       https://kiwi.qa/LuishinoC
-- 📅 App    https://apps.facebook.com/167466933725219
-- 👻 Grupo    https://www.facebook.com/groups/122223121705126/?source_id=1506435219407506
-- 🎧 socialtools https://www.socialtools.me/index?action=demoApps&preview=1&app_id=406101
-- ツ teachlr    https://teachlr.com/lpericena
-- 📖  wikipedia  https://es.wikipedia.org/wiki/Usuario:Luishi%C3%B1o_Pericena_Choque
-- 📧 ask          https://ask.fm/Lpericena
-- 💻 stackoverflow  https://stackoverflow.com/users/6506592/luishi%C3%B1o-pericena-choque
-- 📡 wix https://lpericena.wixsite.com/curriculumvitae
-- ðŸ‘» Grupo    https://www.facebook.com/groups/122223121705126/?source_id=1506435219407506
-- ðŸŽ§ socialtools https://www.socialtools.me/index?action=demoApps&preview=1&app_id=406101
-- ãƒ?teachlr    https://teachlr.com/lpericena
-- ðŸ“–  wikipedia  https://es.wikipedia.org/wiki/Usuario:Luishi%C3%B1o_Pericena_Choque
-- ðŸ“§ ask          https://ask.fm/Lpericena
-- ðŸ’» stackoverflow  https://stackoverflow.com/users/6506592/luishi%C3%B1o-pericena-choque
-- ðŸ“¡ wix https://lpericena.wixsite.com/curriculumvitae
-
-* Gracias  ðŸ¤“.
-
----
- Por [Pericena](https://github.com/Pericena) ðŸ˜Š
+This project is under the License (GNU General Public License) - see the file [LICENSE.md] (LICENSE.md) for details
